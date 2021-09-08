@@ -26,6 +26,6 @@ FOUNDATION_EXPORT double SweetCurtainVersionNumber;
 //! Project version string for SweetCurtain.
 FOUNDATION_EXPORT const unsigned char SweetCurtainVersionString[];
 
-#import <SweetCurtain_ios/SweetCurtain.h>
+#import <SwiftCurtain/SweetCurtain.h>
 
 
